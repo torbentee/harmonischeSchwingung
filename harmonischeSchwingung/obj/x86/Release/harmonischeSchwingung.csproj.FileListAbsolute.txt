@@ -1,0 +1,44 @@
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\bin\Release\harmonischeSchwingung.exe
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\bin\Release\harmonischeSchwingung.pdb
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form1.resources
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_Uber.resources
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Properties.Resources.resources
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.WerteAnsicht.resources
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.exe
+C:\Users\Torben\Dropbox\BBS II Gö\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.pdb
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.exe
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.pdb
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\bin\Release\harmonischeSchwingung.exe
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\bin\Release\harmonischeSchwingung.pdb
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form1.resources
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_Uber.resources
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Properties.Resources.resources
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.WerteAnsicht.resources
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\TEMP\Desktop\harmonischeSchwingung\harmonischeSchwingung\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.exe
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.pdb
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\bin\Release\harmonischeSchwingung.exe
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\bin\Release\harmonischeSchwingung.pdb
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_Uber.resources
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Properties.Resources.resources
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_Haupt.resources
+C:\Users\TEMP\Desktop\harmonischeSchwingung_2_1\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_WerteAnsicht.resources
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.exe
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.pdb
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\bin\Release\harmonischeSchwingung.exe
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\bin\Release\harmonischeSchwingung.pdb
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_Haupt.resources
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_Uber.resources
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Properties.Resources.resources
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\harmonischeSchwingung.Form_WerteAnsicht.resources
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Torben\Dropbox\BBS II Goe\Informatik\Softwareauftrag\Harmonische Schwingung\harmonischeSchwingung_2_2\harmonischeSchwingung_2_2\harmonischeSchwingung\obj\x86\Release\GenerateResource.write.1.tlog

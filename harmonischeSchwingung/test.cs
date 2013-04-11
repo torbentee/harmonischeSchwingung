@@ -8,5 +8,6 @@ namespace harmonischeSchwingung
     class test
     {
         string test = "test";
+        string abd = "blub";
     }
 }

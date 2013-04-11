@@ -17,12 +17,12 @@ namespace harmonischeSchwingung
             this.Text = header;
         }
 
-        public void textausgeb(double[] x)
+        public void textausgeb(double[,] x)
         {
-            for (int i = 0; i < x.Length; i++)
+            for (int i = 0; i < x.GetLength(0); i++)
             {
                 double outputI = Convert.ToByte(i);
-                listBox1.Items.Add(Convert.ToString(outputI / 100 + ": " + Math.Round(x[i], 4)));
+                listBox1.Items.Add(Convert.ToString(x[i,0] + ": " + Math.Round(x[i,1], 4)));
             }
         }
 

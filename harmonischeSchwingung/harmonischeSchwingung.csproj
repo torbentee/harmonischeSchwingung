@@ -67,7 +67,6 @@
     <Compile Include="Form_WerteAnsicht.Designer.cs">
       <DependentUpon>Form_WerteAnsicht.cs</DependentUpon>
     </Compile>
-    <Compile Include="test.cs" />
     <EmbeddedResource Include="Form_Haupt.resx">
       <DependentUpon>Form_Haupt.cs</DependentUpon>
     </EmbeddedResource>

@@ -60,7 +60,7 @@ namespace harmonischeSchwingung
 
         public double zeitOrtCalc(double x)
         {   
-            double solution = _Amplitute * Math.Sin(_KreisFrequenz * x + _Phasenverschiebung);
+            double solution = _Amplitute * Math.Sin(_KreisFrequenz * x  + _Phasenverschiebung);
             
             return (solution);
         }

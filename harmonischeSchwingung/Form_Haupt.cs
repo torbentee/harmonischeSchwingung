@@ -20,9 +20,9 @@ namespace harmonischeSchwingung
         //#############################################
         //ACHTUNG müssen alle gemeinsam geändert werden
         //#############################################
-        double[] a = new double[101];
-        double[] b = new double[101];
-        double[] c = new double[101];
+        double[,] a = new double[101,2];
+        double[,] b = new double[101,2];
+        double[,] c = new double[101,2];
         //Arrays für den Einheitskreis
         double[] d = new double[101];
         double[] e = new double[101];
@@ -111,7 +111,7 @@ namespace harmonischeSchwingung
         private void berechne_unitCircle(int anzahlDiagramme, double periodLength)
         {
             schwingung harmon = new schwingung(1L, 1L, 0);
-            for (int i = 0; i < a.Length; i++)
+            for (int i = 0; i < a.GetLength(0); i++)
             {
                 double inside = Convert.ToByte(i);      //i in byte Konvertieren um 0,01er Schritte zu bekommen
                 inside = inside / 100 * periodLength; 
@@ -147,13 +147,13 @@ namespace harmonischeSchwingung
 
                 double inside = Convert.ToByte(i);      //i in byte Konvertieren um 0,01er Schritte zu bekommen
                 inside = inside / 100 * harmon.Periodendauer; 
-                a[i] = harmon.zeitOrtCalc(inside);
-                b[i] = harmon.zeitGeschwindigkeitCalc(inside);
-                c[i] = harmon.zeitBeschleunigungCalc(inside);
+                //a[i] = harmon.zeitOrtCalc(inside);
+                //b[i] = harmon.zeitGeschwindigkeitCalc(inside);
+                //c[i] = harmon.zeitBeschleunigungCalc(inside);
 
-                chrt_threeGraph.Series[0].Points.AddXY(inside, a[i]);
-                chrt_threeGraph.Series[1].Points.AddXY(inside, b[i]);
-                chrt_threeGraph.Series[2].Points.AddXY(inside, c[i]);
+                //chrt_threeGraph.Series[0].Points.AddXY(inside, a[i]);
+                //chrt_threeGraph.Series[1].Points.AddXY(inside, b[i]);
+                //chrt_threeGraph.Series[2].Points.AddXY(inside, c[i]);
 
             }
         }
@@ -164,17 +164,21 @@ namespace harmonischeSchwingung
             schwingung harmon = new schwingung(Convert.ToDouble(numeric_Amplitude.Value), Convert.ToDouble(numeric_Frequenz.Value), berechneWinkelBogenmaß(Convert.ToDouble(numeric_Phasenversc.Value)));
 
             //Array komplett durchlaufen
-            for (int i = 0; i < a.Length; i++)
+            for (int i = 0; i < a.GetLength(0) ; i++)
             {
                 double inside = (byte)i;      //i in byte Konvertieren um 0,01er Schritte zu bekommen
                 inside = inside / 100 * harmon.Periodendauer;
-                a[i] = harmon.zeitOrtCalc(inside);
-                b[i] = harmon.zeitGeschwindigkeitCalc(inside);
-                c[i] = harmon.zeitBeschleunigungCalc(inside);
+                a[i, 1] = harmon.zeitOrtCalc(inside);
+                a[i, 0] = inside;
+                //if (inside > harmon.Periodendauer) break;
+                b[i,1] = harmon.zeitGeschwindigkeitCalc(inside);
+                b[i,0] = inside;
+                c[i,1] = harmon.zeitBeschleunigungCalc(inside);
+                c[i,0] = inside;
 
-                chrt_zeitOrt.Series[0].Points.AddXY(inside , a[i]);
-                chrt_zeitGeschwin.Series[0].Points.AddXY(inside, b[i]);
-                chrt_zeitBeschleu.Series[0].Points.AddXY(inside, c[i]);
+                chrt_zeitOrt.Series[0].Points.AddXY(a[i,0] , a[i,1]);
+                chrt_zeitGeschwin.Series[0].Points.AddXY(b[i,0], b[i,1]);
+                chrt_zeitBeschleu.Series[0].Points.AddXY(c[i,0], c[i,1]);
             }
 
         }
@@ -302,7 +306,7 @@ namespace harmonischeSchwingung
 
         //export der berechneten Arrays als csv geordnet nach Zeit
         private void zeitGeordnetToolStripMenuItem_Click(object sender, EventArgs e)
-        {
+        {/*
             saveFileDialog1.ShowDialog();
             string pfad = saveFileDialog1.FileName;
             //MessageBox.Show(pfad);
@@ -321,12 +325,12 @@ namespace harmonischeSchwingung
 
             outputFile.Close();
             MessageBox.Show("Erfolgreich exportiert", "Hinweis");
-
+            */
         }
-
+        
         //export der berechneten Arrays als csv geordnet nach einzelnen Kategorie
         private void kategorienToolStripMenuItem_Click(object sender, EventArgs e)
-        {
+        {/*
 
             saveFileDialog1.ShowDialog();
             string pfad = saveFileDialog1.FileName;
@@ -360,8 +364,8 @@ namespace harmonischeSchwingung
 
                 outputFile.Close();
                 MessageBox.Show("Erfolgreich exportiert", "Hinweis");
-        }
-
+        */}
+        
         private void überToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form_Uber überUns = new Form_Uber();
